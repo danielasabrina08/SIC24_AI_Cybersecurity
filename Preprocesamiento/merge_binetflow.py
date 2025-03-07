@@ -24,7 +24,7 @@ if dataframes:
     print("Archivos concatenados correctamente.")
     
     # Guardar en un nuevo archivo CSV
-    df_final.to_csv(os.path.join(DIRECTORIO, "concatenado.csv"), index=False)
+    df_final.to_csv(os.path.join(DIRECTORIO, "CTU13.csv"), index=False)
     print("Archivo guardado como 'concatenado.csv'")
 else:
     print("No se encontraron archivos CSV en el directorio.")
