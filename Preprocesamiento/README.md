@@ -14,6 +14,6 @@ Los flujos de red fueron obtenidos de los siguientes enlaces:
 - (Murlo) ``` https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-49/detailed-bidirectional-flow-labels/capture20110816-3.binetflow ```
 - (Neris) ``` https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-50/detailed-bidirectional-flow-labels/capture20110817.binetflow ```
 - (RBot) ``` https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-51/detailed-bidirectional-flow-labels/capture20110818.binetflow ```
-- (NsisAy) ``` https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-51/detailed-bidirectional-flow-labels/capture20110818.binetflow ```
+- (NsisAy) ``` https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-53/detailed-bidirectional-flow-labels/capture20110819.binetflow ```
 
 El archivo ```merge_binetflow.py``` se encarga de concatenar todos los dataframes que se obtuvieron de los enlaces anteriores, este script da como salida un nuevo dataset. Un vez hecho esto el nuevo dataset puede ser usado para la siguiente parte del preprocesamiento.
